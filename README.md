@@ -5,7 +5,7 @@ GroupChat
 This app works on google firebase and requires email verification. 
 
 Steps to use- 
-1) Install the app
+1) Install the apk provided
 2) Register
 3) Verify email
 4) Login and choose username and groupcode for the group
